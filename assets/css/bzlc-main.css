@@ -1,0 +1,81 @@
+.llc-wl-settings-wrap,
+.llc-wl-settings-wrap *,
+.llc-wl-settings-header,
+.llc-wl-settings-header * {
+	box-sizing: border-box;
+}
+
+.llc-wl-settings-header {
+    width: 98%;
+}
+
+.llc-wl-settings-wrap {
+    max-width: 97%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-left: 0;
+    margin-left: 0;
+}
+.llc-wl-settings-header h3 {
+	color: inherit;
+}
+.llc-wl-message {
+	margin: 0 !important;
+    margin-bottom: 10px !important;
+}
+.llc-wl-settings {
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+    width: 98%;
+    float: left;
+}
+.llc-wl-setting-tabs {
+	background: #f9f9f9;
+}
+.llc-wl-setting-tabs a {
+	display: inline-block;
+	padding: 15px;
+	min-width: 125px;
+	text-decoration: none;
+	text-align: center;
+	outline: none !important;
+	box-shadow: none !important;
+}
+.llc-wl-setting-tabs a.active {
+	background: #fff;
+	color: #333;
+}
+
+.llc-wl-tab-license span {
+	font-style: italic;
+	color: #999;
+}
+
+.llc-wl-setting-tab-content {
+	display: none;
+	padding: 10px 30px;
+}
+.llc-wl-setting-tab-content.active {
+	display: block;
+}
+.bzrap.upload img {
+    width: 200px;
+    height: auto;
+}
+
+.llc-wl-setting-tab-content table th {
+	width: 280px;
+}
+.llc-wl-setting-tab-content label {
+	font-size: 13px;
+}
+
+.llc-wl-setting-footer {
+	background: #f9f9f9;
+	padding: 18px 30px;
+	border-top: 1px solid #f1f1f1;
+}
+.llc-wl-setting-footer p.submit {
+	margin: 0;
+    padding: 0;
+}

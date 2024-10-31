@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-15 15:05+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lc-settings.php:96 lc-settings.php:98
+msgid "Save"
+msgstr ""
+
+#: lc-settings.php:106 lc-settings.php:116
+msgid "Hide the \""
+msgstr ""
+
+#: lc-settings.php:106 lc-settings.php:110
+#: lc-settings.php:116
+msgid " - Rebrand\" menu item?"
+msgstr ""
+
+#: lc-settings.php:110
+msgid "Show the \""
+msgstr ""
+
+#: lc-settings.php:199
+msgid "Rebrand"
+msgstr ""
+
+#: admin/lc-adminSettings.php:108 admin/lc-adminSettings.php:109
+#: admin/lc-adminSettings.php:124 admin/lc-adminSettings.php:125
+msgid "Rebrand LeadConnector PRO"
+msgstr ""
+
+#: admin/lc-adminSettings.php:143
+msgid "Settings updated successfully!"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:2
+msgid "Rebrand LeadConnector"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:14
+msgid "Branding"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:15
+msgid "You can white label the plugin as per your requirement."
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:20
+msgid "Plugin Name"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:28
+msgid "Plugin Description"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:36
+msgid "Developer / Agency"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:44
+msgid "Website URL"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:53
+msgid "Primary Color"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:63
+msgid "Menu Icon"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:73
+msgid "Logo"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:93
+msgid "Upload"
+msgstr ""
+
+#: admin/bzlc-settings-rebranding.php:107
+msgid "Save Settings"
+msgstr ""
+
+#: lmgr/AutoUpdater.php:60
+msgid "An error occour when try to identify the pluguin."
+msgstr ""
+
+#: lmgr/AutoUpdater.php:60 lmgr/AutoUpdater.php:63
+msgid "Try again"
+msgstr ""
+
+#: lmgr/AutoUpdater.php:63
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: lmgr/lc-licence.php:51 lmgr/lc-licence.php:52
+msgid "Rebrand LeadConnector License"
+msgstr ""
+
+#: lmgr/lc-licence.php:137
+msgid "License Information"
+msgstr ""
+
+#: lmgr/lc-licence.php:257
+msgid "You have an active license."
+msgstr ""
+
+#: lmgr/lc-licence.php:259
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: lmgr/lc-licence.php:272
+msgid "License Key"
+msgstr ""
+
+#: lmgr/lc-licence.php:289
+msgid "Deactivate"
+msgstr ""
+
+#: lmgr/lc-licence.php:291
+msgid "Activate"
+msgstr ""
+
+#: lmgr/lc-licence.php:293
+msgid "Reset"
+msgstr ""
